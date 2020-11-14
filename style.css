@@ -90,12 +90,12 @@ body {
 @media only screen and (max-width: 600px) {
 .terminal-window {
   text-align: left;
-  width: 37.5vmin;
-  height: 22.5vmin;
+  width: 90vmin;
+  height: 60vmin;
   border-radius: .625vmin;
   margin: auto;
   position: relative;
-  top: 30.5vmin;
+  top: 50.5vmin;
 }
 }
 @media only screen and (max-width: 600px) {
@@ -134,7 +134,7 @@ body {
 .terminal-window section.terminal {
   color: white;
   font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
-  font-size: .6875vmin;
+  font-size: 15px;
   background: #30353A;
   padding: .625vmin;
   box-sizing: border-box;
